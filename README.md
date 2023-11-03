@@ -1,6 +1,6 @@
 # Olá, eu sou o Nathan Eduardo
 - 🧑‍💼Hoje estou trabalhando como analista de suporte N1 e N2
-- 🤓Estou estudando sobre altomação e desenvolvimento web
+- 🤓Estou estudando sobre automação e desenvolvimento web
 - 👨‍🎓Estou me formando em Analise e Desenvolviento de Sistemas (ADS)
 
   ##
