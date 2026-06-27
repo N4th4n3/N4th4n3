@@ -1,7 +1,8 @@
 # Olá, eu sou o Nathan Eduardo
-- 🧑‍💼Hoje estou trabalhando como analista de suporte N1 e N2
-- 🤓Estou estudando sobre automação e desenvolvimento web
-- 👨‍🎓Estou me formando em Analise e Desenvolviento de Sistemas (ADS)
+Inspirado pelo pensamento de saber como as coisas funcionam, e na tecnologia encontrei a paixão de fazer algo com amor e eficácia, funcionalidade e assertividade.
+Com 5 anos em experiência em suporte ao cliente e me desenvolvendo no ramo da programação.
+Desenvolvendo projetos em Python, banco de dados SQL e rede.
+Focado em aprender redes e segurança.
 
   ##
 
